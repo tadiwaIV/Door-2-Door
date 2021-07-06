@@ -1,0 +1,145 @@
+h1,h2,h3,h4,h5,h6{
+  color: #0c0b31;
+}
+
+.img-container{
+  height: 600px;
+}
+
+.home-image{
+  height: 100%;
+  background-image: url("become-driver-2.jpg") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 30px;
+}
+
+.drive{
+  margin-top: 50px;
+}
+
+.drive .text-box{
+  font-family: 'Karantina', cursive;
+  margin: 30px 0 0 70px;
+  color: #0c0b31;
+}
+
+.drive .text-box h4{
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+
+}
+
+.drive .text-box h1{
+  font-size: 80px;
+}
+
+.drive .btns{
+  display: inline;
+  margin: 0 0 0 60px;
+  padding-top: 40px;
+}
+
+.drive .buttons{
+  padding: 15px 30px;
+  margin:50px 10px 0;
+  border-radius: 30px;
+}
+
+.drive .ride-btn{
+  background-color: #c984aa;
+  border-color: #c984aa;
+  font-weight: 700;
+}
+
+.drive .ride-btn:hover{
+  background-color: #a86072;
+  border-color: #a86072;
+}
+
+.drive .apply-btn{
+  background-color: #fff;
+  border-color: #c984aa !important;
+  color: #0c0b31 !important;
+}
+
+.drive .apply-btn:hover{
+  background-color: #f7ebe2;
+}
+
+.key-features{
+  background-color: #f4f4fa;
+  height: 60vh;
+  margin-top: 100px;
+}
+
+.key-features .heading{
+  margin-left: 150px;
+  padding-top: 50px;
+}
+
+.list{
+  margin-left: 150px;
+  padding-top: 50px;
+}
+
+.list li{
+  color: #8d8d8d;
+}
+
+
+.card{
+  border: none;
+}
+
+.card-2{
+  margin-left: 50px;
+}
+
+.column{
+  border-right: 1px solid #c984aa;
+}
+
+.fresh-news{
+  margin-top: 100px;
+}
+
+.fresh-news .content{
+    padding-top: 30px;
+}
+
+.fresh-news .heading{
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.fresh-news .img{
+  border-radius: 300px;
+  height: 400px;
+}
+
+.fresh-news .link{
+  text-decoration: underline;
+  color: #c984aa;
+}
+
+.fresh-news .title{
+  font-size: 48px;
+  font-family: 'Karantina', cursive;
+  color: #0c0b31 !important;
+
+}
+
+.fresh-news .second{
+  padding-top: 50px;
+}
+
+.fresh-news .card span{
+  font-family: 'Dancing Script', cursive;
+  font-weight: 800;
+}

@@ -1,0 +1,200 @@
+.bg-img{
+  height: 700px;
+  background-image: url("background-image.jpg") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-img .text-box{
+  font-family: 'Passion One', cursive;
+  margin: 250px 0 0 150px;
+}
+
+.bg-img .text-box h1{
+  color: #fff;
+  font-size: 80px;
+}
+
+.bg-img .text-box h5{
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.hailing{
+  margin-top: 150px;
+}
+
+.hailing .text-box{
+  margin:20px 0 40px 0;
+}
+
+.hailing .img{
+}
+
+.hailing .img img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rush-hour{
+  margin-top: 100px;
+}
+
+.rush-hour .img{
+  background-image: url("rush-hour.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+}
+
+.rush-hour .text-box{
+  margin-top: 30px;
+}
+
+.rush-hour .text-box h2{
+  font-size: 40px;
+  color: #0c0b31;
+  font-weight: 700;
+  font-family: 'Passion One', cursive;
+}
+
+.rush-hour .text-box p{
+  color: #0c0b31;
+  font-weight: 500;
+}
+
+.estimate{
+  margin-top: 100px;
+  background-color: #f4f4fa;
+  height: 400px;
+}
+
+.estimate .text-box h1{
+  padding-top: 100px;
+}
+
+.estimate .calculate-estimate{
+  margin-top: 50px;
+  position: relative;
+  display:inline-block;
+}
+
+.estimate .calculate-estimate input{
+  width: 300px;
+  padding: 15px 0 15px 30px;
+  border-radius: 5px;
+}
+
+.calculate-estimate .btn{
+  margin-right: 40px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background-color: #c984aa;
+  border-color: #c984aa;
+  font-weight: 600;
+  font-family: 'Fira Sans', sans-serif;
+  width: 175px;
+}
+
+.calculate-estimate .btn:hover{
+  background-color: #a86072;
+  border-color: #a86072;
+}
+
+.health-safety{
+  margin-top: 100px;
+}
+
+.health-safety .img{
+  background-image: url("mask.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+}
+
+.health-safety .text-box{
+  margin-top: 20px;
+}
+
+.health-safetyr .text-box h2{
+  font-size: 40px;
+  color: #0c0b31;
+  font-weight: 700;
+  font-family: 'Passion One', cursive;
+}
+
+.health-safety .text-box p{
+  color: #0c0b31;
+  font-weight: 500;
+}
+
+.health-safety .text-box a{
+  color: #a86072;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.gift-card{
+  margin-top: 100px;
+  background-color: #f4f4fa;
+}
+
+.rewards{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.rewards .img{
+  background-image: url("gift-card.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+}
+
+.rewards .text-box{
+  margin-top: 40px;
+}
+
+.rewards .text-box h2{
+  font-size: 40px;
+  color: #0c0b31;
+  font-weight: 700;
+  font-family: 'Passion One', cursive;
+}
+
+.rewards .text-box p{
+  color: #0c0b31;
+  font-weight: 500;
+}
+
+.rewards .text-box a{
+  color: #a86072;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.rewards .text-box .btn{
+  margin-right: 40px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background-color: #c984aa;
+  border-color: #c984aa;
+  font-weight: 600;
+  font-family: 'Fira Sans', sans-serif;
+  width: 175px;
+}
+
+.rewards .text-box .btn:hover{
+  background-color: #a86072;
+  border-color: #a86072;
+}

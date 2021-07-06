@@ -1,0 +1,152 @@
+.apply{
+  background-color: #f3f3f5;
+}
+
+.apply .text-box{
+  font-family: 'Karantina', cursive;
+  margin: 100px 0 0 200px;
+  color: #0c0b31;
+}
+
+.apply .text-box h4{
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+
+}
+
+.apply .text-box h1{
+  font-size: 100px;
+}
+
+.apply .input-wrapper{
+  margin: 15px 0 0 200px;
+}
+
+.apply .input-wrapper ::placeholder {
+  color: #8d8d8d !important;
+  opacity: 1; /* Firefox */
+}
+
+.apply .input-wrapper ::-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: #8d8d8d !important;
+}
+
+.apply .input-wrapper ::-ms-input-placeholder { /* Microsoft Edge */
+ color: #8d8d8d !important  ;
+}
+
+
+.apply .input-text{
+  width: 250px !important;
+}
+
+.apply .terms{
+  margin: 45px 0 50px 200px;
+}
+
+.terms .btn{
+  margin-right: 40px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background-color: #c984aa;
+  border-color: #c984aa;
+  font-weight: 600;
+  font-family: 'Fira Sans', sans-serif;
+  width: 175px;
+}
+
+.terms .btn:hover{
+  background-color: #a86072;
+  border-color: #a86072;
+}
+
+.terms .terms-conditions{
+  margin-right: 20px;
+  transform: scale(1.5);
+}
+
+.terms label{
+  font-size: 18px;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.driver-learn-more {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.driver-learn-more h2{
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.driver-learn-more p{
+  margin-top: 25px;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 18px;
+}
+
+.driver-learn-more a{
+  color: #a86072;
+  text-decoration: underline;
+}
+
+.carousel{
+  margin-top: 30px;
+}
+
+.carousel-background{
+  height: 400px;
+  background-image: url("carousel-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 4px;
+}
+
+.carousel-item{
+  height: 600px;
+}
+
+.carousel-item img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-container{
+}
+
+.carousel-item .carousel-caption {
+  color: #0c0b31 ;
+}
+
+.carousel-item .carousel-caption a{
+  color: #a86072 !important;
+  text-decoration: underline;
+}
+
+.sign-up{
+  background-color: #c984aa;
+  height: 150px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign-up .sign-up-btn{
+  width: 400px;
+  font-size: 48px;
+  background-color: #c984aa;
+  border-color: #c984aa;
+  border-radius: 15px;
+}
+
+.sign-up .sign-up-btn:hover{
+  background-color: #fff;
+  border-color: #fff;
+  color: #a86072;
+}

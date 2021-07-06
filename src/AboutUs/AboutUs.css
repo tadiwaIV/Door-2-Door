@@ -1,0 +1,267 @@
+.about-us-bg{
+  height: 80vh;
+  background-image: url("background-image.jpg") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-us-bg .text-box{
+  margin: 350px 0 0 150px;
+  font-family: 'Passion One', cursive;
+}
+
+.about-us-bg .text-box h1{
+  color: #fff;
+  font-size: 80px;
+}
+
+.paragraph{
+  margin-top: 75px;
+}
+
+.paragraph .text-box h1{
+  font-size: 40px;
+  color: #0c0b31;
+  font-weight: 700;
+  font-family: 'Passion One', cursive;
+}
+
+.paragraph .text-box p{
+  color: #0c0b31;
+  font-weight: 500;
+}
+
+.first-driver{
+  height: 70vh;
+  background-image: url("first-driver.jpg") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 75px;
+}
+
+.first-driver .text-box{
+  margin: 200px 0 0 150px;
+}
+
+.first-driver .text-box h2{
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Passion One', cursive;
+}
+
+.first-driver .text-box p{
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 30px;
+  font-weight: lighter;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.first-driver .text-box a{
+  color: #000;
+  background-color: #fff;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-decoration: none;
+}
+
+.first-driver .text-box a:hover{
+  background-color: #eee;
+}
+
+.about-rides{
+  margin-top: 100px;
+}
+
+.about-rides .img{
+  background-image: url("highway.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 40vw;
+  margin-left: 100px;
+  border-radius: 2px;
+}
+
+.about-rides .img-1{
+  background-image: url("trees.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 40vw;
+  margin-left: 100px;
+  border-radius: 2px;
+}
+
+.about-rides .img-2{
+  background-image: url("shield.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 40vw;
+  border-radius: 2px;
+}
+
+.about-rides .text-box{
+  margin: 40px 0 0 100px;
+}
+
+.about-rides .text-box h2{
+  font-size: 40px;
+  color: #0c0b31;
+  font-weight: 700;
+  font-family: 'Passion One', cursive;
+}
+
+.about-rides .text-box p{
+  color: #0c0b31;
+  font-weight: 500;
+  font-size: 18px;
+  width: 33vw;
+}
+
+.about-rides .text-box .links{
+  display: inline;
+}
+
+.about-rides .text-box a{
+  font-size: 18px;
+  padding: 0 20px 0 0;
+  color: #c984aa;
+  text-decoration: underline;
+}
+
+.about-rides .text-box a:hover{
+  color: #a86072;
+}
+
+.about-rides .text-box .links span{
+  font-family: 'Dancing Script', cursive;
+}
+
+
+.about-rides .paragraph{
+  margin-top: 150px;
+}
+
+.about-rides .first{
+  margin-top: 75px;
+}
+
+.company-info{
+  margin-top: 100px;
+}
+
+.company-info .heading{
+  margin:0 0 30px 100px;
+}
+
+.company-info .text-box{
+  margin:30px 0 0 100px;
+}
+
+.company-info .text-box-1{
+  margin:30px 0 0 0;
+  width: 40vw;
+}
+
+.company-info h3, .company-info h1{
+  font-family: 'Passion One', cursive;
+}
+
+.company-info  a{
+  font-size: 18px;
+  padding: 0 20px 0 0;
+  color: #c984aa;
+  text-decoration: underline;
+}
+
+.company-info a:hover{
+  color: #a86072;
+}
+
+.company-info .img{
+  margin-left: 100px;
+}
+
+.company-info .img img, .company-info .img-1 img{
+  height: 60vh;
+  width: 40vw;
+  border-radius: 2px;
+}
+
+.latest{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.latest .heading{
+  margin:0 0 50px 100px;
+}
+
+.latest h1{
+  font-family: 'Passion One', cursive;
+}
+
+
+.latest  a{
+  font-size: 18px;
+  padding: 0 20px 0 0;
+  color: #c984aa;
+  text-decoration: underline;
+}
+
+.latest a:hover{
+  color: #a86072;
+}
+
+.latest .text-box {
+  width: 100%;
+  text-align: center;
+}
+
+.latest .text-box h4{
+  margin-top: 20px;
+}
+
+.find-job{
+  margin-top: 100px;
+  background-color: #eee;
+  height: 60vh;
+}
+
+.find-job .text-box{
+  margin:150px 0 0 100px;
+}
+
+.find-job .text-box h4{
+  font-size: 48px;
+  font-family: 'Passion One', cursive;
+  margin-bottom: 20px;
+}
+
+.find-job .text-box a{
+  color: #000;
+  background-color: #fff;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.find-job .text-box a:hover{
+  background-color: #eee;
+}
+
+.find-job .img img{
+  height: 60vh;
+  width: 40vw;
+  border-radius: 2px;
+}

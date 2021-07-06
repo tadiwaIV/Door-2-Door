@@ -1,0 +1,130 @@
+
+.safety .headline{
+  margin-top: 100px;
+}
+
+.safety .headline h1,
+
+.safety .headline h1{
+  font-size: 64px;
+}
+
+.safety .headline p{
+  margin-top: 30px;
+}
+
+.safety .committment .img img{
+  width: 100%;
+}
+
+.safety .committment .img {
+  margin-top: 50px;
+}
+
+.safety .covid-safety {
+  margin:100px 0 0 100px;
+}
+
+.safety .covid-safety h1{
+  font-size: 48px;
+}
+
+.safety .covid-safety .links{
+  display: inline;
+}
+
+.safety .covid-safety .links span{
+  font-family: 'Dancing Script', cursive;
+}
+
+.safety .covid-safety a{
+  font-size: 18px;
+  padding: 0 20px 0 0;
+  color: #c984aa;
+  text-decoration: underline;
+}
+
+.safety .covid-safety a:hover{
+  color: #a86072;
+}
+
+.hygiene-supplies{
+  margin-top: 100px;
+}
+
+.hygiene-supplies .hygiene-next-ride {
+  margin: 100px 0 0 100px;
+  width: 30vw;
+}
+
+.hygiene-supplies .hygiene-next-ride h1{
+}
+
+.hygiene-supplies .img{
+  margin-left: 100px;
+}
+
+.safety-experience{
+  margin: 100px 0 0 100px;
+}
+
+.safety-experience .experience .text-box {
+  width: 21vw;
+}
+
+.experience .text-box h4 {
+  margin: 30px 0 20px 0;
+}
+
+.safety-journey{
+  margin-top: 100px;
+}
+
+.safety-journey .img img{
+  height: 60vh;
+  width: 35vw;
+  border-radius: 2px;
+  margin: 75px 0 30px 0;
+}
+
+.safety-journey .driver-rider-safety a{
+  font-size: 18px;
+  padding: 0 20px 0 0;
+  color: #c984aa;
+  text-decoration: underline;
+}
+
+.safety-journey .driver-rider-safety a:hover{
+  color: #a86072;
+}
+
+.safety-journey {
+  width: 100%;
+  text-align: center;
+}
+
+.safety-journey .text-box h4{
+  margin-top: 20px;
+}
+
+.partnership{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.partnership .img img{
+  height: 60vh;
+  width: 35vw;
+  border-radius: 2px;
+}
+
+.partnership .text-box a{
+  font-size: 18px;
+  padding: 0 20px 0 0;
+  color: #c984aa;
+  text-decoration: underline;
+}
+
+.partnership .text-box a:hover{
+  color: #a86072;
+}
