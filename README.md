@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ## Project
 
-This is a concept website for a car hailing company. 
+This is a concept website for a car hailing company. The Project was Developed using ReactJS, HTML5, CSS3, Bootstrap 4 and JavaScript.
